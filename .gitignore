@@ -1,0 +1,6 @@
+__pycache__/
+captured_requests/
+sqlmap_out/
+findings.json
+findings.json.corrupt_backup
+replay_queue.json
